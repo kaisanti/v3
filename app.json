@@ -1,12 +1,19 @@
 {
-    "name": "iseng",
+    "name": "Heroku-Stack-as-Container-Repo",
     "description": "Create a new app with stack as a container in Heroku",
+    "repository": "https://github.com/gautamajay52/Heroku-Stack-as-Container-Repo",
     "keywords": [
         "Heroku",
         "Stack",
         "container",
         "repo"
     ],
+    "env": {
+        "UNAME": {
+            "description": "Name of Author",
+            "value": "minami93",
+            "required": false
+        }
     },
     "stack": "container"
 }
