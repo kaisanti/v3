@@ -7,18 +7,6 @@
         "container",
         "repo"
     ],
-    "env": {
-        "RP_NAME": {
-            "description": "Name of Author",
-            "value": "anas6may2022",
-            "required": false
-        }
-    "env": {
-        "UNAME": {
-            "description": "Name of Author",
-            "value": "minami93",
-            "required": false
-        }
     },
     "stack": "container"
 }
